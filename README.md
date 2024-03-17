@@ -1,1 +1,1 @@
-# Na-ve-Search-Engine-Utilising-MapReduce-Technology
+# Naive-Search-Engine-Utilising-MapReduce-Technology
