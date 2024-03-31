@@ -1,7 +1,7 @@
 # Naive-Search-Engine-Utilising-MapReduce-Technology
 # Search Engine on Jupyter
 
-This repository contains the code for implementing a search engine using Jupyter Notebook along with Hadoop MapReduce. The `search_engine_on_jupyter.ipynb` file serves as the main notebook where all the preprocessing, vocabulary generation, indexing, and similarity calculations are performed. Additionally, the MapReduce framework is utilized for scalability in processing large datasets.
+This repository contains the code for implementing a search engine using Jupyter Notebook along with Hadoop MapReduce. The `search_engine_on_jupyter.ipynb` file serves as the main notebook where all the preprocessing, vocabulary generation, indexing, and similarity calculations are performed on a part of data. Additionally, the MapReduce framework is utilized for scalability in processing large datasets.
 
 ## Functionality
 
