@@ -1,3 +1,5 @@
+---
+
 # Naive-Search-Engine-Utilising-MapReduce-Technology
 # Search Engine on Jupyter
 
@@ -56,8 +58,21 @@ For Hadoop MapReduce tasks:
 2. Run the appropriate MapReduce jobs (`mapper1`, `reducer1`, `mapper2`, etc.) passing the required input files and parameters.
 3. Follow the pipeline as described in the notebook to execute the search and similarity calculation tasks.
 
+## Running `asg3.sh`
+
+To automate the execution of all the mapper and reducer jobs, follow these steps:
+
+1. **Update Paths**: Before running the script, update the paths inside the `asg3.sh` file to match your local environment setup. This includes the paths to input files, Hadoop directories, and any other configurations specific to your setup.
+2. **Run the Script**: Execute the script by running the following command in your terminal:
+   ```bash
+   bash asg3.sh
+   ```
+   This will run all the mapper and reducer jobs in sequence as defined in the script.
+
 ## Dependencies
 
 - Python 3
 - Jupyter Notebook
 - Hadoop MapReduce
+
+---
