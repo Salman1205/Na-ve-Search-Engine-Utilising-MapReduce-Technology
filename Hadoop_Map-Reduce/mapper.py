@@ -25,3 +25,4 @@ for line in csv.reader(iter(sys.stdin.readline, '')):
 # Emit vocabulary set
 for word in vocab:
     print(word)
+
